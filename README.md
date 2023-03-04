@@ -2,7 +2,7 @@
 
 ## Description
 
-Number guessing game using JavaScript
+Number Guessing Game Using JavaScript
 
 ## Site Link
 
