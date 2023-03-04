@@ -4,6 +4,6 @@
 
 Number Guessing Game Using JavaScript
 
-## Try It Out!
+## Check It Out!
 
 https://tasinms.github.io/Guess-My-Number/
