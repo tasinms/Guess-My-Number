@@ -4,8 +4,6 @@
 
 Number Guessing Game Using JavaScript
 
-## Site Link
+## Try It Out!
 
-Name: Tasin Mohammad <br />
-ID: 20341021 <br />
-Section: 7
+https://tasinms.github.io/Guess-My-Number/
